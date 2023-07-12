@@ -1,0 +1,3 @@
+2023-07-12 10:49:33.414 INFO  c.h.h.M.ManagerEndUserApplication - Starting ManagerEndUserApplication using Java 17.0.5 on SAJID-M5RFGECH with PID 2420 (D:\CaseStudy\caseStudy_OnlineHotelManagementSystem-master\Hotel-Management-System-master\Manager-EndUser\target\classes started by HP in D:\CaseStudy\caseStudy_OnlineHotelManagementSystem-master\Hotel-Management-System-master\Manager-EndUser)
+2023-07-12 10:49:33.420 INFO  c.h.h.M.ManagerEndUserApplication - No active profile set, falling back to default profiles: default
+2023-07-12 10:49:38.316 INFO  c.h.h.M.ManagerEndUserApplication - Started ManagerEndUserApplication in 5.774 seconds (JVM running for 6.477)
