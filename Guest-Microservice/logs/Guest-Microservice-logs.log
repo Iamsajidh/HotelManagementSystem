@@ -1,0 +1,16 @@
+2023-07-12 00:14:13.383 INFO  c.h.h.G.GuestMicroserviceApplication - Starting GuestMicroserviceApplication using Java 17.0.5 on SAJID-M5RFGECH with PID 18528 (D:\CaseStudy\caseStudy_OnlineHotelManagementSystem-master\Hotel-Management-System-master\Guest-Microservice\target\classes started by HP in D:\CaseStudy\caseStudy_OnlineHotelManagementSystem-master\Hotel-Management-System-master\Guest-Microservice)
+2023-07-12 00:14:13.389 INFO  c.h.h.G.GuestMicroserviceApplication - No active profile set, falling back to default profiles: default
+2023-07-12 00:14:19.909 INFO  c.h.h.G.GuestMicroserviceApplication - Started GuestMicroserviceApplication in 7.384 seconds (JVM running for 8.153)
+2023-07-12 00:33:30.157 INFO  c.h.h.G.Service.GuestserviceImpl - Adding guest: Guest [guestId=123, guestName=Shantanu Lokhande, guestContact=989898005, guestEmail=Shantanu@gmail.com, guestGender=Male, guestAddress=Nagpur]
+2023-07-12 00:34:02.511 INFO  c.h.h.G.Service.GuestserviceImpl - Adding guest: Guest [guestId=1, guestName=Shantanu Lokhande, guestContact=989898005, guestEmail=Shantanu@gmail.com, guestGender=Male, guestAddress=Nagpur]
+2023-07-12 10:44:42.180 INFO  c.h.h.G.GuestMicroserviceApplication - Starting GuestMicroserviceApplication using Java 17.0.5 on SAJID-M5RFGECH with PID 8236 (D:\CaseStudy\caseStudy_OnlineHotelManagementSystem-master\Hotel-Management-System-master\Guest-Microservice\target\classes started by HP in D:\CaseStudy\caseStudy_OnlineHotelManagementSystem-master\Hotel-Management-System-master\Guest-Microservice)
+2023-07-12 10:44:42.290 INFO  c.h.h.G.GuestMicroserviceApplication - No active profile set, falling back to default profiles: default
+2023-07-12 10:44:49.509 INFO  c.h.h.G.GuestMicroserviceApplication - Started GuestMicroserviceApplication in 8.433 seconds (JVM running for 9.241)
+2023-07-12 15:10:08.143 INFO  c.h.h.G.Service.GuestserviceImpl - Retrieving all guests
+2023-07-12 15:10:30.581 INFO  c.h.h.G.Service.GuestserviceImpl - Retrieving all guests
+2023-07-12 15:10:42.949 INFO  c.h.h.G.Service.GuestserviceImpl - Retrieving all guests
+2023-07-12 15:58:23.625 INFO  c.h.h.G.Service.GuestserviceImpl - Retrieving all guests
+2023-07-12 16:00:07.254 INFO  c.h.h.G.Service.GuestserviceImpl - Retrieving all guests
+2023-07-12 22:56:02.299 INFO  c.h.h.G.Service.GuestserviceImpl - Retrieving all guests
+2023-07-13 00:21:14.622 INFO  c.h.h.G.Service.GuestserviceImpl - Retrieving all guests
+2023-07-13 00:27:18.483 INFO  c.h.h.G.Service.GuestserviceImpl - Retrieving all guests

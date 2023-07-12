@@ -1,0 +1,10 @@
+src/main/java/com/hussain/hms/ApiGateway/ApiGatewayApplication.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/com/hussain/hms/ApiGateway/ApiGatewayApplication.java:9:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/com/hussain/hms/ApiGateway/ApiGatewayApplication.java:9:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/main/java/com/hussain/hms/ApiGateway/ApiGatewayApplication.java:11:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hussain/hms/ApiGateway/ApiGatewayApplication.java:11:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/test/java/com/hussain/hms/ApiGateway/ApiGatewayApplicationTests.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/test/java/com/hussain/hms/ApiGateway/ApiGatewayApplicationTests.java:7:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/hussain/hms/ApiGateway/ApiGatewayApplicationTests.java:7:	CommentRequired:	CommentRequired: Class comments are required
+src/test/java/com/hussain/hms/ApiGateway/ApiGatewayApplicationTests.java:10:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/hussain/hms/ApiGateway/ApiGatewayApplicationTests.java:10:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
