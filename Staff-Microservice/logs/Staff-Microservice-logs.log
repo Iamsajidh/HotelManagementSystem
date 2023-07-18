@@ -1,0 +1,8 @@
+2023-07-12 01:23:51.663 INFO  c.h.h.S.StaffMicroserviceApplication - Starting StaffMicroserviceApplication using Java 17.0.5 on SAJID-M5RFGECH with PID 27156 (D:\CaseStudy\caseStudy_OnlineHotelManagementSystem-master\Hotel-Management-System-master\Staff-Microservice\target\classes started by HP in D:\CaseStudy\caseStudy_OnlineHotelManagementSystem-master\Hotel-Management-System-master\Staff-Microservice)
+2023-07-12 01:23:51.674 INFO  c.h.h.S.StaffMicroserviceApplication - No active profile set, falling back to default profiles: default
+2023-07-12 01:23:58.423 INFO  c.h.h.S.StaffMicroserviceApplication - Started StaffMicroserviceApplication in 7.831 seconds (JVM running for 8.47)
+2023-07-12 01:24:10.459 INFO  c.h.h.S.Service.StaffserviceImpl - Retrieving all employees
+2023-07-12 01:28:00.880 INFO  c.h.h.S.Service.StaffserviceImpl - Adding employee: Staff [empId=9991, empDeptId=999, empName=Ramesh, empDeptName=HouseKeeping, email=Ramesh@gmail.com, empSalary=15000]
+2023-07-12 10:50:53.215 INFO  c.h.h.S.StaffMicroserviceApplication - Starting StaffMicroserviceApplication using Java 17.0.5 on SAJID-M5RFGECH with PID 13232 (D:\CaseStudy\caseStudy_OnlineHotelManagementSystem-master\Hotel-Management-System-master\Staff-Microservice\target\classes started by HP in D:\CaseStudy\caseStudy_OnlineHotelManagementSystem-master\Hotel-Management-System-master\Staff-Microservice)
+2023-07-12 10:50:53.236 INFO  c.h.h.S.StaffMicroserviceApplication - No active profile set, falling back to default profiles: default
+2023-07-12 10:51:00.438 INFO  c.h.h.S.StaffMicroserviceApplication - Started StaffMicroserviceApplication in 8.114 seconds (JVM running for 8.814)

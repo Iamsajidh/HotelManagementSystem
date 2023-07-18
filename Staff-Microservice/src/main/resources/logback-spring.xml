@@ -1,0 +1,19 @@
+<configuration>
+  <!-- Default Spring Boot logging configuration -->
+    <include resource="org/springframework/boot/logging/logback/base.xml"/>
+    
+    <!-- File appender -->
+    <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+        <file>logs/Staff-Microservice-logs.log</file>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Additional configuration for your custom packages/classes -->
+    <logger name="com.hussain.hms.StaffMicroservice" level="INFO">
+        <appender-ref ref="FILE" />
+    </logger>
+
+    
+</configuration>

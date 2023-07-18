@@ -1,0 +1,171 @@
+2023-07-12 01:17:17.953 INFO  c.h.h.R.RoomMicroserviceApplication - Starting RoomMicroserviceApplication using Java 17.0.5 on SAJID-M5RFGECH with PID 20252 (D:\CaseStudy\caseStudy_OnlineHotelManagementSystem-master\Hotel-Management-System-master\Room-Microservice\target\classes started by HP in D:\CaseStudy\caseStudy_OnlineHotelManagementSystem-master\Hotel-Management-System-master\Room-Microservice)
+2023-07-12 01:17:17.961 INFO  c.h.h.R.RoomMicroserviceApplication - No active profile set, falling back to default profiles: default
+2023-07-12 01:17:23.798 INFO  c.h.h.R.RoomMicroserviceApplication - Started RoomMicroserviceApplication in 6.653 seconds (JVM running for 7.268)
+2023-07-12 01:19:39.578 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving available rooms
+2023-07-12 01:19:52.477 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 10:50:40.711 INFO  c.h.h.R.RoomMicroserviceApplication - Starting RoomMicroserviceApplication using Java 17.0.5 on SAJID-M5RFGECH with PID 18412 (D:\CaseStudy\caseStudy_OnlineHotelManagementSystem-master\Hotel-Management-System-master\Room-Microservice\target\classes started by HP in D:\CaseStudy\caseStudy_OnlineHotelManagementSystem-master\Hotel-Management-System-master\Room-Microservice)
+2023-07-12 10:50:40.821 INFO  c.h.h.R.RoomMicroserviceApplication - No active profile set, falling back to default profiles: default
+2023-07-12 10:50:46.596 INFO  c.h.h.R.RoomMicroserviceApplication - Started RoomMicroserviceApplication in 6.594 seconds (JVM running for 7.314)
+2023-07-12 10:51:46.843 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 11:51:11.163 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 11:51:14.968 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 11:51:41.342 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 11:56:13.708 INFO  c.h.h.R.Service.RoomserviceImpl - Adding room: com.hussain.hms.RoomMicroservice.Models.Room@3dd9229b
+2023-07-12 11:56:28.093 INFO  c.h.h.R.Service.RoomserviceImpl - Adding room: com.hussain.hms.RoomMicroservice.Models.Room@173f3fec
+2023-07-12 11:58:03.330 INFO  c.h.h.R.Service.RoomserviceImpl - Deleting room with ID: 201
+2023-07-12 11:58:16.413 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 12:00:29.111 INFO  c.h.h.R.Service.RoomserviceImpl - Updating room: com.hussain.hms.RoomMicroservice.Models.Room@459e22c7
+2023-07-12 12:00:48.199 INFO  c.h.h.R.Service.RoomserviceImpl - Updating room: com.hussain.hms.RoomMicroservice.Models.Room@14b300d9
+2023-07-12 12:01:06.224 INFO  c.h.h.R.Service.RoomserviceImpl - Deleting room with ID: 203
+2023-07-12 12:11:38.591 INFO  c.h.h.R.Service.RoomserviceImpl - Deleting room with ID: 103
+2023-07-12 12:12:41.705 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 12:12:57.953 INFO  c.h.h.R.Service.RoomserviceImpl - Adding room: com.hussain.hms.RoomMicroservice.Models.Room@60d8d511
+2023-07-12 12:13:07.175 INFO  c.h.h.R.Service.RoomserviceImpl - Adding room: com.hussain.hms.RoomMicroservice.Models.Room@50bb64f6
+2023-07-12 12:13:17.324 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 12:16:23.391 INFO  c.h.h.R.Service.RoomserviceImpl - Adding room: com.hussain.hms.RoomMicroservice.Models.Room@14833a8d
+2023-07-12 12:16:30.890 INFO  c.h.h.R.Service.RoomserviceImpl - Adding room: com.hussain.hms.RoomMicroservice.Models.Room@48c1c30
+2023-07-12 12:18:23.659 INFO  c.h.h.R.Service.RoomserviceImpl - Adding room: com.hussain.hms.RoomMicroservice.Models.Room@25da576e
+2023-07-12 12:18:27.642 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 12:18:56.188 INFO  c.h.h.R.Service.RoomserviceImpl - Adding room: com.hussain.hms.RoomMicroservice.Models.Room@1addcede
+2023-07-12 12:18:58.780 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 12:19:39.093 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 12:20:05.486 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 12:20:19.553 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 12:20:37.068 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 12:23:09.960 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 12:41:47.806 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 14:44:10.028 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 15:07:16.300 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 15:10:38.680 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 16:00:14.986 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 16:03:21.027 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 16:03:27.039 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 16:03:33.142 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 16:06:54.780 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 16:15:56.631 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 22:52:08.283 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 22:53:01.503 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving room with ID: 101
+2023-07-12 22:53:02.564 INFO  c.h.h.R.Service.RoomserviceImpl - Updating room: com.hussain.hms.RoomMicroservice.Models.Room@668c304e
+2023-07-12 22:53:13.512 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-12 22:55:18.219 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving room with ID: 201
+2023-07-12 22:55:18.241 INFO  c.h.h.R.Service.RoomserviceImpl - Updating room: com.hussain.hms.RoomMicroservice.Models.Room@6990b207
+2023-07-12 22:55:46.722 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 00:20:16.132 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 00:20:26.100 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 00:28:41.308 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 00:28:52.866 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 00:30:04.165 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 00:30:42.483 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving room with ID: 401
+2023-07-13 00:30:42.629 INFO  c.h.h.R.Service.RoomserviceImpl - Updating room: com.hussain.hms.RoomMicroservice.Models.Room@5744e28b
+2023-07-13 01:11:58.211 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 01:12:47.675 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 01:12:50.230 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 01:13:25.321 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 01:14:02.793 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 01:19:38.657 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:28:28.701 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:29:18.702 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:29:22.068 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:29:27.784 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:32:00.960 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:32:02.514 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:32:11.135 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:32:12.675 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:32:18.206 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:33:05.252 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:33:13.383 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:33:28.140 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:33:33.278 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:33:56.393 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:34:02.144 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:34:08.239 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:34:09.187 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:34:13.818 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:35:57.771 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:37:09.751 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:37:14.530 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:37:15.669 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:37:21.071 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:37:35.523 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:38:15.719 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:39:32.165 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:39:44.642 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:40:05.255 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:49:15.736 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:50:17.456 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:50:22.516 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:50:59.069 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:51:03.343 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:51:04.754 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:51:11.941 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:51:34.077 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:51:38.985 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:51:43.100 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:51:59.985 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:52:02.665 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:52:04.021 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:52:14.896 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:52:16.232 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:52:17.913 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:52:19.076 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:52:20.947 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:52:23.156 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:53:06.277 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:53:08.812 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:53:09.950 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:53:17.730 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:53:18.663 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:53:30.264 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:53:31.151 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:55:10.060 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:57:28.572 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 02:57:41.857 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 03:05:37.361 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 10:29:01.537 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 10:30:31.841 INFO  c.h.h.R.Service.RoomserviceImpl - Adding room: com.hussain.hms.RoomMicroservice.Models.Room@2f02e39a
+2023-07-13 10:31:35.755 INFO  c.h.h.R.Service.RoomserviceImpl - Adding room: com.hussain.hms.RoomMicroservice.Models.Room@5d2469de
+2023-07-13 10:31:48.960 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 10:37:41.878 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving room with ID: 101
+2023-07-13 10:37:42.837 INFO  c.h.h.R.Service.RoomserviceImpl - Updating room: com.hussain.hms.RoomMicroservice.Models.Room@7a39f49d
+2023-07-13 10:38:52.788 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 10:39:06.929 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 10:39:22.103 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 10:40:09.265 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 11:44:15.031 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 11:47:31.722 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 11:47:38.488 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 11:49:49.441 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 12:21:45.987 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 12:25:27.414 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 12:25:31.241 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 12:25:34.245 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 12:26:24.445 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 12:28:37.551 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving room with ID: 101
+2023-07-13 12:28:37.661 INFO  c.h.h.R.Service.RoomserviceImpl - Updating room: com.hussain.hms.RoomMicroservice.Models.Room@40661dbd
+2023-07-13 12:29:08.873 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 12:43:05.608 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving room with ID: 102
+2023-07-13 12:43:06.077 INFO  c.h.h.R.Service.RoomserviceImpl - Updating room: com.hussain.hms.RoomMicroservice.Models.Room@1ab5971f
+2023-07-13 12:44:09.162 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 12:44:12.059 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 12:44:20.446 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 13:17:30.686 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 13:21:34.697 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 13:22:33.097 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 13:22:49.861 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 13:55:22.432 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 14:08:13.231 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 14:09:24.353 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving room with ID: 201
+2023-07-13 14:09:24.442 INFO  c.h.h.R.Service.RoomserviceImpl - Updating room: com.hussain.hms.RoomMicroservice.Models.Room@79b742b4
+2023-07-13 14:10:11.664 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 14:17:12.394 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving room with ID: 201
+2023-07-13 14:52:21.115 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 14:52:49.711 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 14:54:09.516 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving room with ID: 301
+2023-07-13 14:54:09.616 INFO  c.h.h.R.Service.RoomserviceImpl - Updating room: com.hussain.hms.RoomMicroservice.Models.Room@46e317fd
+2023-07-13 14:58:53.435 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-13 15:03:45.557 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-14 01:11:35.344 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-14 01:12:15.683 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
+2023-07-14 01:12:59.255 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving room with ID: 401
+2023-07-14 01:12:59.751 INFO  c.h.h.R.Service.RoomserviceImpl - Updating room: com.hussain.hms.RoomMicroservice.Models.Room@2c8dd7ae
+2023-07-14 01:18:26.329 INFO  c.h.h.R.Service.RoomserviceImpl - Retrieving all rooms
